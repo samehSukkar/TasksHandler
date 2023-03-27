@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B2086EB0-6EC2-4236-AAEB-3360C0B4F301}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TaskHandlerPro</RootNamespace>
+    <AssemblyName>TaskHandlerPro</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.2.0.123\lib\net461\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.3.3, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.3.3\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.116.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.116.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="userControls\AddSolutionBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userControls\AddSolutionBox.Designer.cs">
+      <DependentUpon>AddSolutionBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userControls\AddSolutionsView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userControls\AddSolutionsView.Designer.cs">
+      <DependentUpon>AddSolutionsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userControls\SolutionView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userControls\SolutionView.Designer.cs">
+      <DependentUpon>SolutionView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\mainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\mainForm.Designer.cs">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="userControls\responsiveView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userControls\responsiveView.Designer.cs">
+      <DependentUpon>responsiveView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userControls\resposiveBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userControls\resposiveBox.Designer.cs">
+      <DependentUpon>resposiveBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\Solution.cs" />
+    <Compile Include="userControls\SolutionBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userControls\SolutionBox.Designer.cs">
+      <DependentUpon>SolutionBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\Student.cs" />
+    <Compile Include="userControls\StudentBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userControls\StudentBox.Designer.cs">
+      <DependentUpon>StudentBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userControls\StudentsView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userControls\StudentsView.Designer.cs">
+      <DependentUpon>StudentsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\Task.cs" />
+    <Compile Include="userControls\TaskBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userControls\TaskBox.Designer.cs">
+      <DependentUpon>TaskBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userControls\TaskView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userControls\TaskView.Designer.cs">
+      <DependentUpon>TaskView.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="userControls\AddSolutionBox.resx">
+      <DependentUpon>AddSolutionBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userControls\AddSolutionsView.resx">
+      <DependentUpon>AddSolutionsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userControls\SolutionView.resx">
+      <DependentUpon>SolutionView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\mainForm.resx">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="userControls\responsiveView.resx">
+      <DependentUpon>responsiveView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userControls\resposiveBox.resx">
+      <DependentUpon>resposiveBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userControls\SolutionBox.resx">
+      <DependentUpon>SolutionBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userControls\StudentBox.resx">
+      <DependentUpon>StudentBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userControls\StudentsView.resx">
+      <DependentUpon>StudentsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userControls\TaskBox.resx">
+      <DependentUpon>TaskBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="Labs_DB.db">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="userControls\TaskView.resx">
+      <DependentUpon>TaskView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.116.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.116.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.116.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.116.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+</Project>

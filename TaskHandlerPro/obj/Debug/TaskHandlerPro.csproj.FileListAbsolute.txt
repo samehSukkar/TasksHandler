@@ -1,0 +1,189 @@
+C:\Users\user\source\repos\TH\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TH\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Properties.Resources.resources
+C:\Users\user\source\repos\TH\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TH\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TH\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe.config
+C:\Users\user\source\repos\TH\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe
+C:\Users\user\source\repos\TH\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.pdb
+C:\Users\user\source\repos\TH\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.exe
+C:\Users\user\source\repos\TH\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.pdb
+C:\Users\user\source\repos\TH\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Form1.resources
+C:\Users\user\source\repos\TH\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskBox.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe.config
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.pdb
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csprojAssemblyReference.cache
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Form1.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Properties.Resources.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskBox.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.GenerateResource.cache
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.exe
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.pdb
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\bin\Debug\Labs_DB.db
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.dll
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.xml
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sanabel\Downloads\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.CopyComplete
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Form1.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Properties.Resources.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskBox.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.exe
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.pdb
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\bin\Debug\Labs_DB.db
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe.config
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.pdb
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.xml
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.CopyComplete
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.mainForm.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.StudentBox.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.StudentsView.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskView.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.resposiveBox.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.responsiveView.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.SolutionBox.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.classes.SolutionView.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\bin\Debug\Labs_DB.db
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe.config
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.pdb
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.dll
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.xml
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csprojAssemblyReference.cache
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.classes.SolutionView.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Form1.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.mainForm.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Properties.Resources.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.responsiveView.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.resposiveBox.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.SolutionBox.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.StudentBox.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.StudentsView.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskBox.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskView.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.GenerateResource.cache
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.CopyComplete
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.exe
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.pdb
+C:\Users\Sanabel\Downloads\TaskHandlerPro (4)\TaskHandlerPro\TaskHandlerPro\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\Labs_DB.db
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe.config
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.pdb
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.xml
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.classes.SolutionView.resources
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Form1.resources
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.mainForm.resources
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Properties.Resources.resources
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.responsiveView.resources
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.resposiveBox.resources
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.SolutionBox.resources
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.StudentBox.resources
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.StudentsView.resources
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskBox.resources
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskView.resources
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.CopyComplete
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.exe
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.pdb
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.AddSolutionBox.resources
+C:\Users\user\Desktop\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.AddSolutionsView.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\Labs_DB.db
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe.config
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.pdb
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.dll
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\Guna.UI2.dll
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.xml
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csprojAssemblyReference.cache
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.AddSolutionBox.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.AddSolutionsView.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.classes.SolutionView.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Form1.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.mainForm.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Properties.Resources.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.responsiveView.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.resposiveBox.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.SolutionBox.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.StudentBox.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.StudentsView.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskBox.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskView.resources
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.GenerateResource.cache
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.CopyComplete
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.exe
+C:\Users\Sanabel\Downloads\TaskHandlerPro (6)\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.pdb
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\Labs_DB.db
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe.config
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.pdb
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.xml
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.AddSolutionBox.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.AddSolutionsView.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.classes.SolutionView.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Form1.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.mainForm.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Properties.Resources.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.responsiveView.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.resposiveBox.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.SolutionBox.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.StudentBox.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.StudentsView.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskBox.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskView.resources
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.CopyComplete
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.exe
+C:\Users\user\Desktop\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.pdb
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\Labs_DB.db
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe.config
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.exe
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\TaskHandlerPro.pdb
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.dll
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\Guna.UI2.dll
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.dll
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\Dapper.xml
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\bin\Debug\System.Data.SQLite.xml
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.AssemblyReference.cache
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.SuggestedBindingRedirects.cache
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.AddSolutionBox.resources
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.AddSolutionsView.resources
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.classes.SolutionView.resources
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Form1.resources
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.mainForm.resources
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.Properties.Resources.resources
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.userControls.responsiveView.resources
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.resposiveBox.resources
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.SolutionBox.resources
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.StudentBox.resources
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.StudentsView.resources
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskBox.resources
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.TaskView.resources
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.GenerateResource.cache
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.CoreCompileInputs.cache
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.csproj.CopyComplete
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.exe
+D:\projects\TaskHandlerPro\TaskHandlerPro\TaskHandlerPro\obj\Debug\TaskHandlerPro.pdb
